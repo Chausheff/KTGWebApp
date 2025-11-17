@@ -1,0 +1,88 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]|КТГ ЕООД</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <header>
+        <div class="header-top d-flex justify-content-between align-items-center position-relative">
+            <a class="header-logo" asp-controller="Home" asp-action="Index">
+                <img src="~/images/logo2.jpg" alt="logo">
+            </a>
+            <div class="language-selector">
+                <ul class="list-unstyled mb-0">
+                    <li class="d-inline-block p-2"><a href="#" class="language-link">BG</a></li>
+                    <li class="d-inline-block p-2"><a href="#" class="language-link">EN</a></li>
+                    <li class="d-inline-block p-2"><a href="#" class="language-link">DE</a></li>
+                </ul>
+            </div>
+        </div>
+    </header>
+    <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light border-bottom box-shadow navbar-sticky">
+        <div class="container">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="navbar-collapse collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Index">Начало</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-white" asp-area="" asp-controller="AboutUs" asp-action="AboutUs">За нас</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Index">Товарни вагони</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Index">Резервни части</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-white" asp-area="" asp-controller="Contacts" asp-action="Contacts">Контакти</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-white" asp-area="" asp-controller="sendRequest" asp-action="sendRequest">Изпрати запитване</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="content-wrapper">
+        <div class="container">
+            <main role="main" class="pb-3">
+                @RenderBody()
+            </main>
+        </div>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            <div class="row footer-row">
+                <div class="col-md-4 footer-col">
+                    <p class="footer-text">KTG EOOD</p>
+                    <p class="footer-text">Address: 8000 Burgas Tovarna Gara "Vladimir Pavlov"</p>
+                    <p class="footer-text">Severna Promischlena Zona, Postfach 553</p>
+                </div>
+                <div class="col-md-4 footer-col">
+                    <p class="footer-text">Tel.: +359 56 950 618</p>
+                    <p class="footer-text">Mob.: +359 886 322 311</p>
+                    <p class="footer-text">Fax: +359 56 950 615</p>
+                    <p class="footer-text">Е-mail: office@ktg.bg</p>
+                </div>
+                <div class="col-md-4 footer-col">
+                    <p class="footer-text">&copy;  @DateTime.UtcNow.Year - КТГ ЕООД</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
