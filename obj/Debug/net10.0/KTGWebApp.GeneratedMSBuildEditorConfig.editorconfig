@@ -26,12 +26,20 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRVc1xBYm91dFVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/chaus/Downloads/KTGWebApp-master/KTGWebApp-master/KTGWebApp/Views/CargoWagons/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZ29XYWdvbnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/chaus/Downloads/KTGWebApp-master/KTGWebApp-master/KTGWebApp/Views/Contacts/Contacts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdHNcQ29udGFjdHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/chaus/Downloads/KTGWebApp-master/KTGWebApp-master/KTGWebApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/chaus/Downloads/KTGWebApp-master/KTGWebApp-master/KTGWebApp/Views/Parts/Parts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydHNcUGFydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/chaus/Downloads/KTGWebApp-master/KTGWebApp-master/KTGWebApp/Views/SendRequest/SendRequest.cshtml]

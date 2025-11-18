@@ -406,4 +406,5 @@ C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Debug\n
 C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Debug\net10.0\KTGWebApp.pdb
 C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Debug\net10.0\KTGWebApp.genruntimeconfig.cache
 C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Debug\net10.0\ref\KTGWebApp.dll
-C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Debug\net10.0\compressed\l9svpc2l6l-{0}-3axlr8gvgj-3axlr8gvgj.gz
+C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Debug\net10.0\KTGWebApp.sourcelink.json
+C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Debug\net10.0\compressed\l9svpc2l6l-{0}-8f2igpv4we-8f2igpv4we.gz
