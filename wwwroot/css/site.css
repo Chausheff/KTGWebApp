@@ -226,6 +226,22 @@ background-color:black;
     padding: 0;
 }
 
+/* Make logo section 60% width on small screens */
+@media (max-width: 767.98px) {
+    .header-logo {
+        width: 60%;
+        max-width: 60%;
+        left: 0;
+        padding-left: 5px;
+    }
+    
+    .header-logo img {
+        width: 100%;
+        max-width: 100%;
+        height: auto;
+    }
+}
+
 /* Language selector in header (first row, right side) */
 .language-selector {
     position: absolute;
@@ -238,6 +254,10 @@ background-color:black;
 .language-selector ul {
     margin: 0;
     padding: 0;
+}
+
+.language-selector li {
+    padding: 0.25rem !important;
 }
 
 .language-link {
@@ -564,4 +584,99 @@ h2.text-center {
     #newWagonsCarousel .carousel-item {
         height: 300px;
     }
+}
+
+/* Carousel controls styling for cargo wagons page */
+.carousel-control-prev,
+.carousel-control-next {
+    width: 40px;
+    height: 40px;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: transparent;
+    border-radius: 50%;
+    opacity: 0.8;
+}
+
+.carousel-control-prev {
+    left: 10px;
+}
+
+.carousel-control-next {
+    right: 10px;
+}
+
+.carousel-control-prev:hover,
+.carousel-control-next:hover {
+    opacity: 1;
+    background-color: transparent;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    width: 20px;
+    height: 20px;
+}
+
+/* Cargo Wagons page styles */
+.carousel-relative {
+    position: relative;
+}
+
+.carousel-image-wagon {
+    height: 200px;
+    object-fit: contain;
+}
+
+.carousel-image-wagon-cover {
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.carousel-title-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(68, 180, 84, 0.8);
+    padding: 10px;
+    text-align: center;
+}
+
+.carousel-title-text {
+    color: white;
+    font-weight: bold;
+}
+
+/* Parts page styles */
+.parts-image-container {
+    position: relative;
+}
+
+.parts-image {
+    height: 400px;
+    object-fit: contain;
+    padding: 10px;
+}
+
+.parts-title-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(68, 180, 84, 0.8);
+    padding: 15px;
+    text-align: center;
+}
+
+.parts-title-text {
+    color: white;
+    font-weight: bold;
+}
+
+/* Contacts page - iframe border */
+.map-iframe {
+    border: 0;
 }
