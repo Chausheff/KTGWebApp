@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "UJEXA+JLiJk=",
+  "dgSpecHash": "GtGxVackltI=",
   "success": true,
   "projectFilePath": "C:\\Users\\chaus\\Downloads\\KTGWebApp-master\\KTGWebApp-master\\KTGWebApp\\KTGWebApp.csproj",
   "expectedPackageFiles": [
@@ -12,7 +12,8 @@
     "C:\\Users\\chaus\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.0.0\\microsoft.codeanalysis.csharp.4.0.0.nupkg.sha512",
     "C:\\Users\\chaus\\.nuget\\packages\\microsoft.codeanalysis.razor\\6.0.0\\microsoft.codeanalysis.razor.6.0.0.nupkg.sha512",
     "C:\\Users\\chaus\\.nuget\\packages\\microsoft.extensions.dependencymodel\\10.0.0\\microsoft.extensions.dependencymodel.10.0.0.nupkg.sha512",
-    "C:\\Users\\chaus\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+    "C:\\Users\\chaus\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
+    "C:\\Users\\chaus\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\10.0.0\\microsoft.netcore.app.host.win-x86.10.0.0.nupkg.sha512"
   ],
   "logs": []
 }

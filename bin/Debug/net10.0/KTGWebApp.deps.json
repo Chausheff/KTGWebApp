@@ -351,6 +351,17 @@
         "runtime": {
           "KTGWebApp.dll": {}
         },
+        "resources": {
+          "bg/KTGWebApp.resources.dll": {
+            "locale": "bg"
+          },
+          "de/KTGWebApp.resources.dll": {
+            "locale": "de"
+          },
+          "en/KTGWebApp.resources.dll": {
+            "locale": "en"
+          }
+        },
         "compile": {
           "KTGWebApp.dll": {}
         }

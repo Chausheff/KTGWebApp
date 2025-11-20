@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KTGWebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1840db538f96b43fa084c4b901ca226cc63e2e8b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb93e693ab73e73953e8e3eff793d5ff35b63ef3")]
 [assembly: System.Reflection.AssemblyProductAttribute("KTGWebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KTGWebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

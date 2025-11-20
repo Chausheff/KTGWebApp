@@ -267,6 +267,8 @@ background-color:black;
     padding: 5px 10px;
     display: inline-block;
     transition: background-color 0.3s;
+    font-size: inherit;
+    font-family: inherit;
 }
 
 .language-link:hover {

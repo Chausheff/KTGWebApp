@@ -1,9 +1,14 @@
-﻿<!DOCTYPE html>
-<html lang="en">
+﻿@using Microsoft.AspNetCore.Localization
+@{
+    var requestCulture = Context.Features.Get<IRequestCultureFeature>();
+    var currentCulture = requestCulture?.RequestCulture?.Culture?.Name ?? "bg";
+}
+<!DOCTYPE html>
+<html lang="@currentCulture">
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"]|КТГ ЕООД</title>
+    <title>@ViewData["Title"]|KTG EOOD</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" />
 </head>
@@ -11,13 +16,39 @@
     <header>
         <div class="header-top d-flex justify-content-between align-items-center position-relative">
             <a class="header-logo" asp-controller="Home" asp-action="Index">
-                <img src="~/images/logo-en.jpg" alt="logo">
+                @{
+                    var logoFile = currentCulture switch
+                    {
+                        "bg" => "logo2.jpg",
+                        "de" => "logo-en.jpg",
+                        _ => "logo-en.jpg"
+                    };
+                }
+                <img src="~/images/@logoFile" alt="logo" onerror="this.src='~/images/logo-en.jpg'">
             </a>
             <div class="language-selector">
                 <ul class="list-unstyled mb-0">
-                    <li class="d-inline-block p-2"><a href="#" class="language-link">BG</a></li>
-                    <li class="d-inline-block p-2"><a href="#" class="language-link">EN</a></li>
-                    <li class="d-inline-block p-2"><a href="#" class="language-link">DE</a></li>
+                    <li class="d-inline-block p-2">
+                        <form asp-controller="Language" asp-action="SetLanguage" method="post" style="display: inline;">
+                            <input type="hidden" name="culture" value="bg" />
+                            <input type="hidden" name="returnUrl" value="@Context.Request.Path@Context.Request.QueryString" />
+                            <button type="submit" class="language-link" style="background: none; border: none; padding: 0; cursor: pointer;">BG</button>
+                        </form>
+                    </li>
+                    <li class="d-inline-block p-2">
+                        <form asp-controller="Language" asp-action="SetLanguage" method="post" style="display: inline;">
+                            <input type="hidden" name="culture" value="en" />
+                            <input type="hidden" name="returnUrl" value="@Context.Request.Path@Context.Request.QueryString" />
+                            <button type="submit" class="language-link" style="background: none; border: none; padding: 0; cursor: pointer;">EN</button>
+                        </form>
+                    </li>
+                    <li class="d-inline-block p-2">
+                        <form asp-controller="Language" asp-action="SetLanguage" method="post" style="display: inline;">
+                            <input type="hidden" name="culture" value="de" />
+                            <input type="hidden" name="returnUrl" value="@Context.Request.Path@Context.Request.QueryString" />
+                            <button type="submit" class="language-link" style="background: none; border: none; padding: 0; cursor: pointer;">DE</button>
+                        </form>
+                    </li>
                 </ul>
             </div>
         </div>
@@ -31,22 +62,22 @@
             <div class="navbar-collapse collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item">
-                        <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Index">Начало</a>
+                        <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Index">@Localizer["NavHome"]</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-white" asp-area="" asp-controller="AboutUs" asp-action="AboutUs">За нас</a>
+                        <a class="nav-link text-white" asp-area="" asp-controller="AboutUs" asp-action="AboutUs">@Localizer["NavAboutUs"]</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-white" asp-area="" asp-controller="CargoWagons" asp-action="Index">Товарни вагони</a>
+                        <a class="nav-link text-white" asp-area="" asp-controller="CargoWagons" asp-action="Index">@Localizer["NavCargoWagons"]</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-white" asp-area="" asp-controller="Parts" asp-action="Parts">Резервни части</a>
+                        <a class="nav-link text-white" asp-area="" asp-controller="Parts" asp-action="Parts">@Localizer["NavParts"]</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-white" asp-area="" asp-controller="Contacts" asp-action="Contacts">Контакти</a>
+                        <a class="nav-link text-white" asp-area="" asp-controller="Contacts" asp-action="Contacts">@Localizer["NavContacts"]</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-white" asp-area="" asp-controller="sendRequest" asp-action="sendRequest">Изпрати запитване</a>
+                        <a class="nav-link text-white" asp-area="" asp-controller="sendRequest" asp-action="sendRequest">@Localizer["NavSendRequest"]</a>
                     </li>
                 </ul>
             </div>
@@ -65,14 +96,14 @@
             <div class="row footer-row">
                 <div class="col-md-4 footer-col">
                     <p class="footer-text">KTG EOOD</p>
-                    <p class="footer-text">Address: 8000 Burgas Tovarna Gara "Vladimir Pavlov"</p>
+                    <p class="footer-text">@Localizer["FooterAddress"]: 8000 Burgas Tovarna Gara "Vladimir Pavlov"</p>
                     <p class="footer-text">Severna Promischlena Zona, Postfach 553</p>
                 </div>
                 <div class="col-md-4 footer-col">
-                    <p class="footer-text">Tel.: +359 56 950 618</p>
-                    <p class="footer-text">Mob.: +359 886 322 311</p>
-                    <p class="footer-text">Fax: +359 56 950 615</p>
-                    <p class="footer-text">Е-mail: office@ktg.bg</p>
+                    <p class="footer-text">@Localizer["FooterTel"]: +359 56 950 618</p>
+                    <p class="footer-text">@Localizer["FooterMob"]: +359 886 322 311</p>
+                    <p class="footer-text">@Localizer["FooterFax"]: +359 56 950 615</p>
+                    <p class="footer-text">@Localizer["FooterEmail"]: office@ktg.bg</p>
                 </div>
                 <div class="col-md-4 footer-col">
                     <p class="footer-text">Copyrights &copy;  @DateTime.UtcNow.Year - KTG EOOD</p>
