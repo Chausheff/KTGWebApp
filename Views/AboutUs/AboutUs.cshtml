@@ -1,5 +1,5 @@
 @{
-    ViewData["Title"] = "About us";
+    ViewData["Title"] = Localizer["NavAboutUs"];
 }
 
 <div class="container">
@@ -11,16 +11,16 @@
     <div class="row">
         <div class="col-12 col-md-6 order-2 order-md-1">
             <p>
-                КТГ ЕООД е основана през април 2010 г. с ясната мисия да предоставя надеждни и ефективни решения в областта на железопътния транспорт. Вече повече от десетилетие компанията се развива като доверен партньор на предприятия в различни индустрии, благодарение на професионализъм, коректност и адаптивност към индивидуалните нужди на клиента.
+                @Localizer["AboutUsParagraph1"]
             </p>
             <p>
-                Нашата основна дейност включва продажба и отдаване под наем на нови, модернизирани и употребявани железопътни вагони. Допълнително предлагаме резервни части за подвижен железопътен състав и осигуряваме посредничество при извършване на ремонтни услуги в специализирани ремонтни бази.
+                @Localizer["AboutUsParagraph2"]
             </p>
             <p>
-                КТГ ЕООД разполага с богата гама транспортни средства за външен и вътрешнозаводски релсов транспорт на материали, което ни позволява да предоставяме комплексни решения, съобразени с нуждите на модерния бизнес.
+                @Localizer["AboutUsParagraph3"]
             </p>
             <p>
-                Нашата цел е да гарантираме качество, надеждност и дългосрочни партньорства, като подкрепяме клиентите си във всички аспекти, свързани с железопътната логистика.
+                @Localizer["AboutUsParagraph4"]
             </p>
         </div>
         <div class="col-12 col-md-6 order-1 order-md-2">
@@ -77,11 +77,11 @@
                 </div>
                 <a class="carousel-control-prev" href="#newWagonsCarousel" role="button" data-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                    <span class="sr-only">Previous</span>
+                    <span class="sr-only">@Localizer["CarouselPrevious"]</span>
                 </a>
                 <a class="carousel-control-next" href="#newWagonsCarousel" role="button" data-slide="next">
                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                    <span class="sr-only">Next</span>
+                    <span class="sr-only">@Localizer["CarouselNext"]</span>
                 </a>
             </div>
         </div>

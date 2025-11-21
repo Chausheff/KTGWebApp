@@ -1,4 +1,4 @@
-namespace KTGWebApp
+namespace KTGWebApp.Resources
 {
     // This class is used as a marker for resource localization
     // The resource files should be named: SharedResource.resx, SharedResource.bg.resx, etc.

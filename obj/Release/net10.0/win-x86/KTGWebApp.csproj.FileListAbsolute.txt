@@ -358,10 +358,6 @@ C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\bin\Release
 C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\bin\Release\net10.0\win-x86\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Release\net10.0\win-x86\KTGWebApp.csproj.AssemblyReference.cache
 C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Release\net10.0\win-x86\rpswa.dswa.cache.json
-C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Release\net10.0\win-x86\KTGWebApp.SharedResource.resources
-C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Release\net10.0\win-x86\KTGWebApp.SharedResource.bg.resources
-C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Release\net10.0\win-x86\KTGWebApp.SharedResource.de.resources
-C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Release\net10.0\win-x86\KTGWebApp.SharedResource.en.resources
 C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Release\net10.0\win-x86\KTGWebApp.csproj.GenerateResource.cache
 C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Release\net10.0\win-x86\KTGWebApp.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Release\net10.0\win-x86\KTGWebApp.AssemblyInfoInputs.cache
@@ -382,7 +378,6 @@ C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Release
 C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Release\net10.0\win-x86\rjsmrazor.dswa.cache.json
 C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Release\net10.0\win-x86\rjsmcshtml.dswa.cache.json
 C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Release\net10.0\win-x86\scopedcss\bundle\KTGWebApp.styles.css
-C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Release\net10.0\win-x86\compressed\l9svpc2l6l-{0}-p69l72mku4-p69l72mku4.gz
 C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Release\net10.0\win-x86\compressed\8v0bz94ql1-{0}-p51va2yux8-p51va2yux8.gz
 C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Release\net10.0\win-x86\compressed\kywrax3a6a-{0}-bnkqy1y0r8-bnkqy1y0r8.gz
 C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Release\net10.0\win-x86\compressed\4uft2b25m5-{0}-w0dq6fgsfq-w0dq6fgsfq.gz
@@ -428,3 +423,8 @@ C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Release
 C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Release\net10.0\win-x86\KTGWebApp.pdb
 C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Release\net10.0\win-x86\KTGWebApp.genruntimeconfig.cache
 C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Release\net10.0\win-x86\ref\KTGWebApp.dll
+C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Release\net10.0\win-x86\KTGWebApp.Resources.SharedResource.resources
+C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Release\net10.0\win-x86\KTGWebApp.Resources.SharedResource.bg.resources
+C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Release\net10.0\win-x86\KTGWebApp.Resources.SharedResource.de.resources
+C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Release\net10.0\win-x86\KTGWebApp.Resources.SharedResource.en.resources
+C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Release\net10.0\win-x86\compressed\l9svpc2l6l-{0}-ho8ppdr6t6-ho8ppdr6t6.gz

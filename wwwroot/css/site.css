@@ -658,7 +658,7 @@ h2.text-center {
 }
 
 .parts-image {
-    height: 400px;
+    height: 200px;
     object-fit: contain;
     padding: 10px;
 }

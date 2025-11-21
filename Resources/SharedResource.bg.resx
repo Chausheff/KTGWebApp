@@ -137,13 +137,92 @@
     <value>Товарни вагони</value>
   </data>
   <data name="CargoWagonsSelect" xml:space="preserve">
-    <value>Моля изберете една от следните категории:</value>
+    <value>Разполагаме с вагони от следните категории:</value>
   </data>
   <data name="PartsTitle" xml:space="preserve">
     <value>Резервни части</value>
   </data>
   <data name="PartsMessage" xml:space="preserve">
-    <value>Ако не виждате желаното, моля свържете се с нас и ние ще се постараем да ви помогнем.</value>
+    <value>Разгледайте категориите, които най-често привличат вниманието на нашите клиенти.
+     Те обхващат основните решения и продукти, които предлагаме, и са създадени,
+      за да отговорят на нуждите на различни индустрии и приложения.
+       Ако въпреки това търсите нещо специфично или имате конкретно изискване,
+       ние сме тук, за да Ви помогнем. Нашият екип ще Ви консултира и ще Ви насочи към най-подходящото решение.</value>
+  </data>
+  <data name="PartsMessage2" xml:space="preserve">
+    <value>Предлагаме широка гама унифицирани части, а чрез сътрудничеството ни с водещи партньори сме в състояние
+        да осигурим и индивидуално разработени елементи, съобразени с Вашите специфични технически параметри
+         и цели. Вашите нужди са нашият приоритет. Нашият стремеж е да осигурим надеждност,
+          качество и персонализирано обслужване, за да получите точно това, което търсите.</value>
+  </data>
+  <data name="PartsCardBogieY25" xml:space="preserve">
+    <value>Талиги Y25</value>
+  </data>
+  <data name="PartsCardBogieTH" xml:space="preserve">
+    <value>Талиги TH</value>
+  </data>
+  <data name="PartsCardWheelsets" xml:space="preserve">
+    <value>Колооси</value>
+  </data>
+  <data name="PartsCardBuffers" xml:space="preserve">
+    <value>Буфери</value>
+  </data>
+  <data name="PartsCardMetalRubberPacket" xml:space="preserve">
+    <value>Метало-гумен пакет</value>
+  </data>
+  <data name="PartsCardScrewCoupling" xml:space="preserve">
+    <value>Винтов спряг</value>
+  </data>
+  <data name="PartsCardSABRegulator" xml:space="preserve">
+    <value>SAB регулатор</value>
+  </data>
+  <data name="ContactsTitle" xml:space="preserve">
+    <value>Контакти</value>
+  </data>
+  <data name="ContactsAddressBurgas" xml:space="preserve">
+    <value>8000 Бургас Товарна гара „Владимир Павлов", Северна Промишлена Зона, Пощенска Кутия 553</value>
+  </data>
+  <data name="ContactsTelBurgas" xml:space="preserve">
+    <value>+359 56 950 618</value>
+  </data>
+  <data name="ContactsMobBurgas" xml:space="preserve">
+    <value>+359 886 322 311</value>
+  </data>
+  <data name="ContactsFaxBurgas" xml:space="preserve">
+    <value>+359 56 950 615</value>
+  </data>
+  <data name="ContactsAddressSofia" xml:space="preserve">
+    <value>1618 София, кв. Овча Купел, ул. Маестро Кънев 57</value>
+  </data>
+  <data name="ContactsTelSofia" xml:space="preserve">
+    <value>(02) 955 74 20, (02) 955 41 31</value>
+  </data>
+  <data name="ContactsMobSofia" xml:space="preserve">
+    <value>0886 803 789, 0886 322 311</value>
+  </data>
+  <data name="ContactsFaxSofia" xml:space="preserve">
+    <value>(02) 856 31 28</value>
+  </data>
+  <data name="ContactsEmail" xml:space="preserve">
+    <value>office@ktg.bg</value>
+  </data>
+  <data name="AboutUsParagraph1" xml:space="preserve">
+    <value>КТГ ЕООД е основана през април 2010 г. с ясната мисия да предоставя надеждни и ефективни решения в областта на железопътния транспорт. Вече повече от десетилетие компанията се развива като доверен партньор на предприятия в различни индустрии, благодарение на професионализъм, коректност и адаптивност към индивидуалните нужди на клиента.</value>
+  </data>
+  <data name="AboutUsParagraph2" xml:space="preserve">
+    <value>Нашата основна дейност включва продажба и отдаване под наем на нови, модернизирани и употребявани железопътни вагони. Допълнително предлагаме резервни части за подвижен железопътен състав и осигуряваме посредничество при извършване на ремонтни услуги в специализирани ремонтни бази.</value>
+  </data>
+  <data name="AboutUsParagraph3" xml:space="preserve">
+    <value>КТГ ЕООД разполага с богата гама транспортни средства за външен и вътрешнозаводски релсов транспорт на материали, което ни позволява да предоставяме комплексни решения, съобразени с нуждите на модерния бизнес.</value>
+  </data>
+  <data name="AboutUsParagraph4" xml:space="preserve">
+    <value>Нашата цел е да гарантираме качество, надеждност и дългосрочни партньорства, като подкрепяме клиентите си във всички аспекти, свързани с железопътната логистика.</value>
+  </data>
+  <data name="CarouselPrevious" xml:space="preserve">
+    <value>Предишен</value>
+  </data>
+  <data name="CarouselNext" xml:space="preserve">
+    <value>Следващ</value>
   </data>
 </root>
 

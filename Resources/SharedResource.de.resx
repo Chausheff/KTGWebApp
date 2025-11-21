@@ -137,13 +137,85 @@
     <value>Güterwagen</value>
   </data>
   <data name="CargoWagonsSelect" xml:space="preserve">
-    <value>Bitte wählen Sie eine der folgenden Kategorien:</value>
+    <value>Wir haben Wagen aus den folgenden Kategorien:</value>
   </data>
   <data name="PartsTitle" xml:space="preserve">
     <value>Ersatzteile</value>
   </data>
   <data name="PartsMessage" xml:space="preserve">
-    <value>Wenn Sie nicht finden, was Sie suchen, kontaktieren Sie uns bitte und wir werden unser Bestes tun, um Ihnen zu helfen.</value>
+    <value>Erkunden Sie die Kategorien, die am häufigsten die Aufmerksamkeit unserer Kunden auf sich ziehen. Sie umfassen die wichtigsten Lösungen und Produkte, die wir anbieten, und wurden geschaffen, um den Bedürfnissen verschiedener Branchen und Anwendungen gerecht zu werden. Wenn Sie dennoch etwas Spezifisches suchen oder eine bestimmte Anforderung haben, sind wir hier, um Ihnen zu helfen. Unser Team wird Sie beraten und Sie zur am besten geeigneten Lösung führen.</value>
+  </data>
+  <data name="PartsMessage2" xml:space="preserve">
+    <value>Wir bieten eine breite Palette von einheitlichen Teilen, und durch unsere Zusammenarbeit mit führenden Partnern sind wir in der Lage, individuell entwickelte Elemente anzubieten, die auf Ihre spezifischen technischen Parameter und Ziele zugeschnitten sind. Ihre Bedürfnisse sind unsere Priorität. Unser Bestreben ist es, Zuverlässigkeit, Qualität und personalisierten Service zu gewährleisten, damit Sie genau das bekommen, was Sie suchen.</value>
+  </data>
+  <data name="PartsCardBogieY25" xml:space="preserve">
+    <value>Drehgestelle Typ Y25</value>
+  </data>
+  <data name="PartsCardBogieTH" xml:space="preserve">
+    <value>Drehgestelle Typ TH</value>
+  </data>
+  <data name="PartsCardWheelsets" xml:space="preserve">
+    <value>Radsätze</value>
+  </data>
+  <data name="PartsCardBuffers" xml:space="preserve">
+    <value>Puffer</value>
+  </data>
+  <data name="PartsCardMetalRubberPacket" xml:space="preserve">
+    <value>Metall-Gummi-Paket</value>
+  </data>
+  <data name="PartsCardScrewCoupling" xml:space="preserve">
+    <value>Schraubkupplung</value>
+  </data>
+  <data name="PartsCardSABRegulator" xml:space="preserve">
+    <value>Bremsgestängestelle</value>
+  </data>
+  <data name="ContactsTitle" xml:space="preserve">
+    <value>Kontakte</value>
+  </data>
+  <data name="ContactsAddressBurgas" xml:space="preserve">
+    <value>8000 Burgas, Güterbahnhof "Vladimir Pavlov", Nördliche Industriezone, Postfach 553</value>
+  </data>
+  <data name="ContactsTelBurgas" xml:space="preserve">
+    <value>+359 56 950 618</value>
+  </data>
+  <data name="ContactsMobBurgas" xml:space="preserve">
+    <value>+359 886 322 311</value>
+  </data>
+  <data name="ContactsFaxBurgas" xml:space="preserve">
+    <value>+359 56 950 615</value>
+  </data>
+  <data name="ContactsAddressSofia" xml:space="preserve">
+    <value>1618 Sofia, Bezirk Ovcha Kupel, Maestro Kanev Straße 57</value>
+  </data>
+  <data name="ContactsTelSofia" xml:space="preserve">
+    <value>(02) 955 74 20, (02) 955 41 31</value>
+  </data>
+  <data name="ContactsMobSofia" xml:space="preserve">
+    <value>0886 803 789, 0886 322 311</value>
+  </data>
+  <data name="ContactsFaxSofia" xml:space="preserve">
+    <value>(02) 856 31 28</value>
+  </data>
+  <data name="ContactsEmail" xml:space="preserve">
+    <value>office@ktg.bg</value>
+  </data>
+  <data name="AboutUsParagraph1" xml:space="preserve">
+    <value>KTG EOOD wurde im April 2010 mit einer klaren Mission gegründet, zuverlässige und effiziente Lösungen im Bereich des Schienenverkehrs anzubieten. Seit über einem Jahrzehnt entwickelt sich das Unternehmen als vertrauensvoller Partner für Unternehmen in verschiedenen Branchen dank Professionalität, Integrität und Anpassungsfähigkeit an die individuellen Bedürfnisse der Kunden.</value>
+  </data>
+  <data name="AboutUsParagraph2" xml:space="preserve">
+    <value>Unsere Haupttätigkeit umfasst den Verkauf und die Vermietung von neuen, modernisierten und gebrauchten Eisenbahnwagen. Zusätzlich bieten wir Ersatzteile für Schienenfahrzeuge an und vermitteln Reparaturservices in spezialisierten Reparaturwerkstätten.</value>
+  </data>
+  <data name="AboutUsParagraph3" xml:space="preserve">
+    <value>KTG EOOD verfügt über eine reichhaltige Palette von Transportmitteln für externen und werksinternen Schienentransport von Materialien, was es uns ermöglicht, umfassende Lösungen zu bieten, die auf die Bedürfnisse des modernen Geschäfts zugeschnitten sind.</value>
+  </data>
+  <data name="AboutUsParagraph4" xml:space="preserve">
+    <value>Unser Ziel ist es, Qualität, Zuverlässigkeit und langfristige Partnerschaften zu gewährleisten und unsere Kunden in allen Aspekten im Zusammenhang mit der Eisenbahnlogistik zu unterstützen.</value>
+  </data>
+  <data name="CarouselPrevious" xml:space="preserve">
+    <value>Vorherige</value>
+  </data>
+  <data name="CarouselNext" xml:space="preserve">
+    <value>Nächste</value>
   </data>
 </root>
 

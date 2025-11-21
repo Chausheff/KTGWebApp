@@ -358,10 +358,10 @@ C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\bin\Debug\n
 C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Debug\net10.0\KTGWebApp.csproj.AssemblyReference.cache
 C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Debug\net10.0\rpswa.dswa.cache.json
-C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Debug\net10.0\KTGWebApp.SharedResource.resources
-C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Debug\net10.0\KTGWebApp.SharedResource.bg.resources
-C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Debug\net10.0\KTGWebApp.SharedResource.de.resources
-C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Debug\net10.0\KTGWebApp.SharedResource.en.resources
+C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Debug\net10.0\KTGWebApp.Resources.SharedResource.resources
+C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Debug\net10.0\KTGWebApp.Resources.SharedResource.bg.resources
+C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Debug\net10.0\KTGWebApp.Resources.SharedResource.de.resources
+C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Debug\net10.0\KTGWebApp.Resources.SharedResource.en.resources
 C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Debug\net10.0\KTGWebApp.csproj.GenerateResource.cache
 C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Debug\net10.0\KTGWebApp.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Debug\net10.0\KTGWebApp.AssemblyInfoInputs.cache
@@ -382,7 +382,7 @@ C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Debug\n
 C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
 C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Debug\net10.0\scopedcss\bundle\KTGWebApp.styles.css
-C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Debug\net10.0\compressed\l9svpc2l6l-{0}-p69l72mku4-p69l72mku4.gz
+C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Debug\net10.0\compressed\l9svpc2l6l-{0}-ho8ppdr6t6-ho8ppdr6t6.gz
 C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Debug\net10.0\compressed\8v0bz94ql1-{0}-p51va2yux8-p51va2yux8.gz
 C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Debug\net10.0\compressed\kywrax3a6a-{0}-bnkqy1y0r8-bnkqy1y0r8.gz
 C:\Users\chaus\Downloads\KTGWebApp-master\KTGWebApp-master\KTGWebApp\obj\Debug\net10.0\compressed\4uft2b25m5-{0}-w0dq6fgsfq-w0dq6fgsfq.gz

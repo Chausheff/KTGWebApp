@@ -137,13 +137,85 @@
     <value>Cargo Wagons</value>
   </data>
   <data name="CargoWagonsSelect" xml:space="preserve">
-    <value>Please select one of the following categories:</value>
+    <value>We have wagons from the following categories:</value>
   </data>
   <data name="PartsTitle" xml:space="preserve">
     <value>Parts</value>
   </data>
   <data name="PartsMessage" xml:space="preserve">
-    <value>If you don't see what you're looking for, please contact us and we'll do our best to help you.</value>
+    <value>Explore the categories that most often attract the attention of our clients. They cover the main solutions and products we offer and have been created to meet the needs of various industries and applications. If despite this you are looking for something specific or have a specific requirement, we are here to help you. Our team will consult you and guide you to the most appropriate solution.</value>
+  </data>
+  <data name="PartsMessage2" xml:space="preserve">
+    <value>We offer a wide range of unified parts, and through our cooperation with leading partners, we are able to provide individually developed elements tailored to your specific technical parameters and goals. Your needs are our priority. Our aim is to ensure reliability, quality and personalized service so that you get exactly what you are looking for.</value>
+  </data>
+  <data name="PartsCardBogieY25" xml:space="preserve">
+    <value>Bogies Y25</value>
+  </data>
+  <data name="PartsCardBogieTH" xml:space="preserve">
+    <value>Bogies TH</value>
+  </data>
+  <data name="PartsCardWheelsets" xml:space="preserve">
+    <value>Wheelsets</value>
+  </data>
+  <data name="PartsCardBuffers" xml:space="preserve">
+    <value>Buffers</value>
+  </data>
+  <data name="PartsCardMetalRubberPacket" xml:space="preserve">
+    <value>Metal-rubber Packet</value>
+  </data>
+  <data name="PartsCardScrewCoupling" xml:space="preserve">
+    <value>Screw Coupling</value>
+  </data>
+  <data name="PartsCardSABRegulator" xml:space="preserve">
+    <value>SAB Regulator</value>
+  </data>
+  <data name="ContactsTitle" xml:space="preserve">
+    <value>Contacts</value>
+  </data>
+  <data name="ContactsAddressBurgas" xml:space="preserve">
+    <value>8000 Burgas, Freight Station "Vladimir Pavlov", Northern Industrial Zone, P.O. Box 553</value>
+  </data>
+  <data name="ContactsTelBurgas" xml:space="preserve">
+    <value>+359 56 950 618</value>
+  </data>
+  <data name="ContactsMobBurgas" xml:space="preserve">
+    <value>+359 886 322 311</value>
+  </data>
+  <data name="ContactsFaxBurgas" xml:space="preserve">
+    <value>+359 56 950 615</value>
+  </data>
+  <data name="ContactsAddressSofia" xml:space="preserve">
+    <value>1618 Sofia, Ovcha Kupel district, 57 Maestro Kanev Street</value>
+  </data>
+  <data name="ContactsTelSofia" xml:space="preserve">
+    <value>(02) 955 74 20, (02) 955 41 31</value>
+  </data>
+  <data name="ContactsMobSofia" xml:space="preserve">
+    <value>0886 803 789, 0886 322 311</value>
+  </data>
+  <data name="ContactsFaxSofia" xml:space="preserve">
+    <value>(02) 856 31 28</value>
+  </data>
+  <data name="ContactsEmail" xml:space="preserve">
+    <value>office@ktg.bg</value>
+  </data>
+  <data name="AboutUsParagraph1" xml:space="preserve">
+    <value>KTG EOOD was founded in April 2010 with a clear mission to provide reliable and efficient solutions in the field of railway transport. For more than a decade, the company has been developing as a trusted partner for businesses in various industries, thanks to professionalism, integrity, and adaptability to individual client needs.</value>
+  </data>
+  <data name="AboutUsParagraph2" xml:space="preserve">
+    <value>Our main activity includes the sale and rental of new, modernized, and used railway wagons. Additionally, we offer spare parts for rolling stock and provide intermediary services for repair services in specialized repair facilities.</value>
+  </data>
+  <data name="AboutUsParagraph3" xml:space="preserve">
+    <value>KTG EOOD has a rich range of transportation means for external and in-plant rail transport of materials, which allows us to provide comprehensive solutions tailored to the needs of modern business.</value>
+  </data>
+  <data name="AboutUsParagraph4" xml:space="preserve">
+    <value>Our goal is to guarantee quality, reliability, and long-term partnerships, supporting our clients in all aspects related to railway logistics.</value>
+  </data>
+  <data name="CarouselPrevious" xml:space="preserve">
+    <value>Previous</value>
+  </data>
+  <data name="CarouselNext" xml:space="preserve">
+    <value>Next</value>
   </data>
 </root>
 

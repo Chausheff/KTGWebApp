@@ -1,5 +1,6 @@
 namespace KTGWebApp
 {
+    using KTGWebApp.Resources;
     using Microsoft.AspNetCore.Builder;
     using Microsoft.AspNetCore.Hosting;
     using Microsoft.AspNetCore.HttpsPolicy;
@@ -21,7 +22,7 @@ namespace KTGWebApp
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            // Use embedded resources (default) - no ResourcesPath needed
+            // Use embedded resources - .resx files are automatically embedded as assembly resources
             services.AddLocalization();
             
             services.AddControllersWithViews()

@@ -1,6 +1,7 @@
 ﻿namespace KTGWebApp.Controllers
 {
     using KTGWebApp.Models;
+    using KTGWebApp.Resources;
     using Microsoft.AspNetCore.Mvc;
     using Microsoft.Extensions.Localization;
     using Microsoft.Extensions.Logging;
