@@ -217,5 +217,41 @@
   <data name="CarouselNext" xml:space="preserve">
     <value>Next</value>
   </data>
+  <data name="CargoWagonsCardOpenWagonsTitle" xml:space="preserve">
+    <value>Open Wagons</value>
+  </data>
+  <data name="CargoWagonsCardOpenWagonsDescription" xml:space="preserve">
+    <value>Suitable for transporting a wide range of bulk and weather-resistant goods. If necessary, they can be retrofitted with a roof for transporting goods sensitive to weather conditions.</value>
+  </data>
+  <data name="CargoWagonsCardPlatformWagonsTitle" xml:space="preserve">
+    <value>Platform Wagons</value>
+  </data>
+  <data name="CargoWagonsCardPlatformWagonsDescription" xml:space="preserve">
+    <value>Designed for transport of railway lines (sleepers, rails, switch parts, etc.), pipes, coils, machines, rods, blanks, steel plates, timber (logs and lumber).</value>
+  </data>
+  <data name="CargoWagonsCardTankWagonsTitle" xml:space="preserve">
+    <value>Tank Wagons</value>
+  </data>
+  <data name="CargoWagonsCardTankWagonsDescription" xml:space="preserve">
+    <value>Designed for transporting various chemical products, compressed/liquefied gases or mineral oils and mineral oil products.</value>
+  </data>
+  <data name="CargoWagonsCardCoilWagonsTitle" xml:space="preserve">
+    <value>Coil Transport Wagons</value>
+  </data>
+  <data name="CargoWagonsCardCoilWagonsDescription" xml:space="preserve">
+    <value>Covered wagon designed for transporting coils. The wagon is equipped with a roof system that can be opened up to 2/3 of the loading length. The roof system opens from both sides and is equipped with a locking device.</value>
+  </data>
+  <data name="CargoWagonsCardContainerWagonsTitle" xml:space="preserve">
+    <value>Container Carriers</value>
+  </data>
+  <data name="CargoWagonsCardContainerWagonsDescription" xml:space="preserve">
+    <value>Wagons for transporting containers offering reliable and efficient solutions for intermodal transport. Thanks to the retractable locking pivots, the wagons can easily be converted into platform wagons, ensuring maximum versatility and adaptation to different types of cargo.</value>
+  </data>
+  <data name="CargoWagonsCardBulkWagonsTitle" xml:space="preserve">
+    <value>Bulk Goods</value>
+  </data>
+  <data name="CargoWagonsCardBulkWagonsDescription" xml:space="preserve">
+    <value>Wagons equipped with a gravity self-unloading system for highly efficient transport of large bulk goods.</value>
+  </data>
 </root>
 

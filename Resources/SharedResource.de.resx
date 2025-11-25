@@ -217,5 +217,41 @@
   <data name="CarouselNext" xml:space="preserve">
     <value>Nächste</value>
   </data>
+  <data name="CargoWagonsCardOpenWagonsTitle" xml:space="preserve">
+    <value>Offene Güterwagen</value>
+  </data>
+  <data name="CargoWagonsCardOpenWagonsDescription" xml:space="preserve">
+    <value>Geeignet für den Transport einer Vielzahl von Schüttgütern und witterungsbeständigen Gütern. Bei Bedarf können sie mit einem Dach nachgerüstet werden, um witterungsempfindliche Güter zu transportieren.</value>
+  </data>
+  <data name="CargoWagonsCardPlatformWagonsTitle" xml:space="preserve">
+    <value>Plattformwagen</value>
+  </data>
+  <data name="CargoWagonsCardPlatformWagonsDescription" xml:space="preserve">
+    <value>Für den Transport von Eisenbahnschienen (Schwellen, Schienen, Weichenteile usw.), Rohren, Spulen, Maschinen, Stangen, Halbzeugen, Stahlplatten, Holz (Baumstämme und Schnittholz) konzipiert.</value>
+  </data>
+  <data name="CargoWagonsCardTankWagonsTitle" xml:space="preserve">
+    <value>Tankwagen</value>
+  </data>
+  <data name="CargoWagonsCardTankWagonsDescription" xml:space="preserve">
+    <value>Für den Transport verschiedener chemischer Produkte, verdichteter/verflüssigter Gase oder Mineralöle und Mineralölprodukte konzipiert.</value>
+  </data>
+  <data name="CargoWagonsCardCoilWagonsTitle" xml:space="preserve">
+    <value>Spulentransportwagen</value>
+  </data>
+  <data name="CargoWagonsCardCoilWagonsDescription" xml:space="preserve">
+    <value>Gedeckter Wagen für den Transport von Spulen. Der Wagen ist mit einem Dachsystem ausgestattet, das bis zu 2/3 der Ladelänge geöffnet werden kann. Das Dachsystem öffnet sich von beiden Seiten und ist mit einer Verriegelungsvorrichtung ausgestattet.</value>
+  </data>
+  <data name="CargoWagonsCardContainerWagonsTitle" xml:space="preserve">
+    <value>Containerwagen</value>
+  </data>
+  <data name="CargoWagonsCardContainerWagonsDescription" xml:space="preserve">
+    <value>Wagen für den Containertransport, die zuverlässige und effiziente Lösungen für den intermodalen Transport bieten. Dank der einziehbaren Verriegelungszapfen können die Wagen leicht in Plattformwagen umgewandelt werden, was maximale Vielseitigkeit und Anpassung an verschiedene Ladungsarten gewährleistet.</value>
+  </data>
+  <data name="CargoWagonsCardBulkWagonsTitle" xml:space="preserve">
+    <value>Schüttgüter</value>
+  </data>
+  <data name="CargoWagonsCardBulkWagonsDescription" xml:space="preserve">
+    <value>Wagen mit einem selbstentladenden Schwerkraftsystem für hocheffizienten Transport großer Schüttgüter.</value>
+  </data>
 </root>
 

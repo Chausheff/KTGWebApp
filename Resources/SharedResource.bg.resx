@@ -224,5 +224,41 @@
   <data name="CarouselNext" xml:space="preserve">
     <value>Следващ</value>
   </data>
+  <data name="CargoWagonsCardOpenWagonsTitle" xml:space="preserve">
+    <value>Открити вагони</value>
+  </data>
+  <data name="CargoWagonsCardOpenWagonsDescription" xml:space="preserve">
+    <value>Подходящи за превоз на широк спектър от насипни и устойчиви на атмосферни условия товари. При необходимост могат да бъдат преоборудвани с покрив за транспортиране на стоки, чувствителни към метеорологичните условия.</value>
+  </data>
+  <data name="CargoWagonsCardPlatformWagonsTitle" xml:space="preserve">
+    <value>Платформени вагони</value>
+  </data>
+  <data name="CargoWagonsCardPlatformWagonsDescription" xml:space="preserve">
+    <value>Предназначени за транспорт на железопътни линии (траверси, релси, части за стрелки и др.), тръби, рулони, машини, пръти, заготовки, стоманени плочи, дървесина (дървени трупи и дървен материал).</value>
+  </data>
+  <data name="CargoWagonsCardTankWagonsTitle" xml:space="preserve">
+    <value>Цистерни</value>
+  </data>
+  <data name="CargoWagonsCardTankWagonsDescription" xml:space="preserve">
+    <value>Предназначени за транспортиране на различни химически продукти, сгъстени/втечнени газове или минерални масла и продукти от минерални масла.</value>
+  </data>
+  <data name="CargoWagonsCardCoilWagonsTitle" xml:space="preserve">
+    <value>Вагони за превоз на ролони</value>
+  </data>
+  <data name="CargoWagonsCardCoilWagonsDescription" xml:space="preserve">
+    <value>Покрит вагон предназначен за транспортиране на ролони. Вагонът е оборудван с покривна система, която може да се отваря до 2/3 от дължината на товарение. Покривната система се отваря от двете страни и е оборудвана с заключващо устройство.</value>
+  </data>
+  <data name="CargoWagonsCardContainerWagonsTitle" xml:space="preserve">
+    <value>Контейнеровози</value>
+  </data>
+  <data name="CargoWagonsCardContainerWagonsDescription" xml:space="preserve">
+    <value>Вагони за превоз на контейнери предлагащи надеждно и ефективно решение за интермодален транспорт. Благодарение на прибиращите се заключващи цапфи, вагоните могат лесно да бъдат преобразувани в платформени, осигурявайки максимална универсалност и адаптация към различни видове товари.</value>
+  </data>
+  <data name="CargoWagonsCardBulkWagonsTitle" xml:space="preserve">
+    <value>Насипни товари</value>
+  </data>
+  <data name="CargoWagonsCardBulkWagonsDescription" xml:space="preserve">
+    <value>Вагони оборудвани със система за саморазтоварване чрез гравитация за високоефективно транспортиране на големи насипни товари.</value>
+  </data>
 </root>
 
